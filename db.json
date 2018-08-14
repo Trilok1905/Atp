@@ -4,7 +4,7 @@
       "id": 1,
       "title": "ATP World Tour tournaments",
       "category":[{"event":"Grand Slam","tournaments":4,"points":2000},
-                  {"events":"ATP Finals":"tournaments":1,"points":1500},
+                  {"events":"ATP Finals","tournaments":1,"points":1500},
                   {"events":"ATP World Tour Masters 1000","tournaments":9,"points":1000},
                   {"events":"ATP World Tour 500 series","tournaments":13,"points":500}
                  ]
